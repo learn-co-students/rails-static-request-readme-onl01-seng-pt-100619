@@ -1,3 +1,5 @@
+TEST
+
 # Rails Static Request
 
 ## Routing
